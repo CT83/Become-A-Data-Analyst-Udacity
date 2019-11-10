@@ -13,6 +13,7 @@ I am extremely ecstatic to announce that I have graduated from Udacity’s Data 
 [Khushboo](https://www.linkedin.com/in/kkapoor012/) mentored me all the way through it, and this certainly would not have been possible without her help! Together we were able to fast track and complete the 4 month Nano Degree in just 2. 
 
 6 projects, 50-something quizzes, 2 months, and several notebooks later I was awarded [this](https://confirm.udacity.com/KKT6UP5E)!  
+![udacity nanodegree certificate](https://github.com/CT83/Become-A-Data-Analyst-Udacity/blob/master/images/cert.png)
 
 ### Thanks!
 
